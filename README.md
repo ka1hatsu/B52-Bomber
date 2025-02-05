@@ -1,5 +1,6 @@
 # B52-Bomber Version 1.0.1 
-![Uploading 3c2a1aa1-561a-41b4-9cd0-5619b1d0506f.jpg…]()
+![3c2a1aa1-561a-41b4-9cd0-5619b1d0506f](https://github.com/user-attachments/assets/fb8e1978-8919-4421-acf2-37d6a9e27a83)
+
 
 
 B52 SMS Bomber is an unlimited SMS spamming tool developed by kaihatsu kun for educational and pranking purposes. This tool demonstrates how automated SMS requests can be used to stress-test mobile numbers.
