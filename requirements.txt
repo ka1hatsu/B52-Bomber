@@ -1,0 +1,7 @@
+termcolor
+requests
+random
+os
+pyfiglet
+socks
+socket
